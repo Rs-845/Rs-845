@@ -1,5 +1,5 @@
 # 💫 About Me:
-Programadora junior  apasionada por la tecnología y el aprendizaje continuo.<br>Siempre dispuesta a explorar nuevas herramientas, enfoques y afrontar nuevos retos
+Programadora junior apasionada por la tecnología y el aprendizaje continuo.<br>Siempre dispuesta a explorar nuevas herramientas, enfoques y afrontar nuevos retos
 
 
 # 💻 Tech Stack:
